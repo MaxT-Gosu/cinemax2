@@ -2258,9 +2258,23 @@ const baseDeDatos = [
         descripcion: "Tras romper el misterioso Sauce de un Deseo para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.", 
         fecha: "2026", 
         tags: "Terror y Suspense",
-        etiqueta: "ESTRENO",
+        etiqueta: "",
         coincidencia: "7.2/10",
         calidad: "HD"
     },
+	{ 
+        id: "P180", 
+        titulo: "El diablo viste a la moda 2", 
+        poster: "https://media.themoviedb.org/t/p/w300_and_h450_face/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg", 
+        bg: "https://image.tmdb.org/t/p/original/d5m1SkjVblDu5Xv9FHb7FNg6Ixt.jpg", 
+        video: "https://appcine.b-cdn.net/Cinemax/peliculas/El%20diablo%20viste%20a%20la%20moda%202%20.mp4", 
+        descripcion: "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.", 
+        fecha: "2026", 
+        tags: "Comedia y Drama",
+        etiqueta: "ESTRENO",
+        coincidencia: "7.0/10",
+        calidad: "HD"
+    },
+	
 	
 ];
