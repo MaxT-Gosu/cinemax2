@@ -2275,6 +2275,19 @@ const baseDeDatos = [
         coincidencia: "7.0/10",
         calidad: "HD"
     },
+	{ 
+        id: "P181", 
+        titulo: "Misión a Marte", 
+        poster: "https://image.tmdb.org/t/p/original/kbv4fTDUGDpP2r8U5bHYT001127.jpg", 
+        bg: "https://image.tmdb.org/t/p/original/rCJTh6kMM7WjAXRrb4849mqhVTW.jpg", 
+        video: "https://appcine.b-cdn.net/Cinemax/peliculas/Misi%C3%B3n.A.Marte.2000.1080P-Dual-Lat.mp4", 
+        descripcion: "En 2020, Luke Graham lidera misión a Marte, descubre domo letal; el coronel McConnell planifica misión de rescate.", 
+        fecha: "2000", 
+        tags: "Ciencia ficción, Aventura y Misterio",
+        etiqueta: "ESTRENO",
+        coincidencia: "7.9/10",
+        calidad: "HD"
+    },
 	
 	
 ];
