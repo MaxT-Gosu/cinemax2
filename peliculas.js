@@ -2284,8 +2284,21 @@ const baseDeDatos = [
         descripcion: "En 2020, Luke Graham lidera misión a Marte, descubre domo letal; el coronel McConnell planifica misión de rescate.", 
         fecha: "2000", 
         tags: "Ciencia ficción, Aventura y Misterio",
-        etiqueta: "ESTRENO",
+        etiqueta: "",
         coincidencia: "7.9/10",
+        calidad: "HD"
+    },
+	{ 
+        id: "P182", 
+        titulo: "Backrooms", 
+        poster: "https://image.tmdb.org/t/p/w600_and_h900_face/A6otDtTWkCUa7cN8DExxO91ziOK.jpg", 
+        bg: "https://image.tmdb.org/t/p/original/vj7a22bscMe55RdtlmH39Jq6t7o.jpg", 
+        video: "https://appcine.b-cdn.net/Cinemax/peliculas/Backrooms.mp4", 
+        descripcion: "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.", 
+        fecha: "2026", 
+        tags: "Terror, Misterio y Ciencia ficción",
+        etiqueta: "ESTRENO",
+        coincidencia: "6.9/10",
         calidad: "HD"
     },
 	
