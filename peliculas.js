@@ -2297,8 +2297,21 @@ const baseDeDatos = [
         descripcion: "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.", 
         fecha: "2026", 
         tags: "Terror, Misterio y Ciencia ficción",
-        etiqueta: "ESTRENO",
+        etiqueta: "",
         coincidencia: "6.9/10",
+        calidad: "HD"
+    },
+	{ 
+        id: "P183", 
+        titulo: "El día de la revelación", 
+        poster: "https://image.tmdb.org/t/p/w600_and_h900_face/w9iop1djT3NuP6ABSdNm05wMApx.jpg", 
+        bg: "https://image.tmdb.org/t/p/original/lA3GFCZioOc9Abnpv9rQ8DkXjI6.jpg", 
+        video: "https://appcine.b-cdn.net/Cinemax/peliculas/El%20d%C3%ADa%20de%20la%20revelaci%C3%B3n.mp4", 
+        descripcion: "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.", 
+        fecha: "2026", 
+        tags: "Ciencia ficción y Suspense",
+        etiqueta: "ESTRENO",
+        coincidencia: "7.9/10",
         calidad: "HD"
     },
 	
